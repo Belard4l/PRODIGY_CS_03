@@ -34,7 +34,8 @@ This project is a simple password strength checker application built using Pytho
 
 Run the main script using Python:
 ```bash
-python main.py
+python code.py
+
 ```
 
 ## Usage
