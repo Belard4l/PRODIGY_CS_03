@@ -51,9 +51,9 @@ python code.py
 
 ## Screenshots
 
-![Screenshot (200)](https://github.com/Belard4l/PRODIGY_CS_03/assets/123712274/efd33fb4-b992-44f6-a4f4-61d586bdfaa9)
-![Screenshot (199)](https://github.com/Belard4l/PRODIGY_CS_03/assets/123712274/30b5b616-8221-4eed-ab34-906640e72572)
-![Screenshot (201)](https://github.com/Belard4l/PRODIGY_CS_03/assets/123712274/ada04c55-d834-4e35-8e6b-9d1d9a0bba12)
+![Screenshot (205)](https://github.com/Belard4l/PRODIGY_CS_03/assets/123712274/2dcd9c52-c91e-4d77-b9a6-c897288f2618)
+![Screenshot (206)](https://github.com/Belard4l/PRODIGY_CS_03/assets/123712274/b1f0eb1e-64ac-4066-8d13-cd17433db1a0)
+![Screenshot (207)](https://github.com/Belard4l/PRODIGY_CS_03/assets/123712274/b7a67f62-1dd5-4ac0-bf07-c69206c0ce23)
 
 ## Contributing
 
