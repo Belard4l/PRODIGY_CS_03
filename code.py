@@ -13,13 +13,13 @@ def check_password_strength():
     length = len(password)
     Rate = 0
 
-    with open(r'E:\pROJECTs\Prodigy InfoTECH\Password_Strength_checker\list1.txt', 'r') as f1:
+    with open('list1.txt', 'r') as f1:
         list1 = f1.read().splitlines()
 
-    with open(r'E:\pROJECTs\Prodigy InfoTECH\Password_Strength_checker\list2.txt', 'r') as f2:
+    with open('list2.txt', 'r') as f2:
         list2 = f2.read().splitlines()
         
-    with open(r'E:\pROJECTs\Prodigy InfoTECH\Password_Strength_checker\list3.txt', 'r') as f3:
+    with open('list3.txt', 'r') as f3:
         list3 = f3.read().splitlines()
 
     if password in list1 or password in list2 or password in list3:
